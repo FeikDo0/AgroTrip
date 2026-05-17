@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { Container, Grid, Typography, Paper, Box } from "@mui/material";
 
-import LocationCard from "../components/locations/LocationCard";
+import LocationCard from "../components/locations/Locationcard";
 import FiltersPanel from "../components/locations/FiltersPanel";
 
 import { useLocations } from "../contexts/LocationsContext";

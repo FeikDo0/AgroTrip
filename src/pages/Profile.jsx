@@ -8,7 +8,7 @@ import {
   Button,
 } from "@mui/material";
 
-import LocationCard from "../components/locations/LocationCard";
+import LocationCard from "../components/locations/Locationcard";
 
 import { useAuth } from "../contexts/AuthContext";
 import { useLocations } from "../contexts/LocationsContext";
